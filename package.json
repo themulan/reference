@@ -11,7 +11,7 @@
     "prepare": "husky",
     "postinstall": "npm run cpy",
     "build": "refs-cli && npm run cpy",
-    "start": "refs-cli --watch",
+    "start": "npm run cpy && refs-cli --watch",
     "cpy": "cpy 'appicon/*.png' dist/appicon",
     "prettier": "prettier --write '**/*.{mjs,css,json,prettierrc,lintstagedrc}'",
     "markdownlint": "npx markdownlint-cli --fix ./docs/*.md"
@@ -36,7 +36,7 @@
     "markdownlint": "^0.33.0",
     "markdownlint-cli": "^0.39.0",
     "prettier": "^3.0.0",
-    "refs-cli": "^1.8.0"
+    "refs-cli": "^1.9.1"
   },
   "engines": {
     "node": ">=16.0.0"
