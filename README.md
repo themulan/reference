@@ -44,6 +44,8 @@ Quick Reference
 非常感谢一直以来支持我开源项目的朋友们！如果您认可我的工作，欢迎通过 [赞助](https://wangchujiang.com/#/sponsor)<!--rehype:target=_blank--> 我或下载并使用我开发的 [macOS 应用](https://wangchujiang.com/#/app)<!--rehype:target=_blank--> 来支持我。以下是我个人独立开发的 macOS 应用列表：
 
 <p style="display: inline-block">
+  <a target="_blank" href="https://github.com/jaywcjlove/vidwall-hub" title="Vidwall Hub for macOS"><img align="center" alt="Vidwall Hub" height="52" width="52" src="./appicon/vidwall-hub.png"></a>
+  <a target="_blank" href="https://apps.apple.com/app/VidCrop/6752624705" title="VidCrop for macOS"><img align="center" alt="VidCrop" height="52" width="52" src="./appicon/vidcrop.png"></a>
   <a target="_blank" href="https://apps.apple.com/app/Vidwall/6747587746" title="Vidwall for macOS"><img align="center" alt="Vidwall" height="52" width="52" src="./appicon/vidwall.png"></a>
   <a target="_blank" href="https://wangchujiang.com/mousio-hint/" title="Mousio Hint for macOS"><img align="center" alt="Mousio Hint" height="52" width="52" src="./appicon/mousio-hint.png"></a>
   <a target="_blank" href="https://apps.apple.com/app/6746747327" title="Mousio for macOS"><img align="center" alt="Mousio" height="52" width="52" src="./appicon/mousio.png"></a>
@@ -97,236 +99,237 @@ Quick Reference
 坑已挖，需要您的参与完善和[贡献](./docs/quickreference.md)！🙏
 <!--rehype:style=padding-bottom: 23px;-->
 
-[Ansible](./docs/ansible.md)<!--rehype:style=background: rgb(238 0 0);&class=contributing tag&data-lang=RedHat&data-info=👆看看还缺点儿什么？-->
-[CMake](./docs/cmake.md)<!--rehype:style=background: rgb(92 107 192);&class=contributing-->
-[C#](./docs/cs.md)<!--rehype:style=background: rgb(6 147 13);&class=contributing-->
-[Django](./docs/django.md)<!--rehype:style=background: rgb(12 75 51);&class=contributing tag&data-lang=Python-->
-[FFmpeg](./docs/ffmpeg.md)<!--rehype:style=background: rgb(0 193 9);&class=contributing-->
-[Flask](./docs/flask.md)<!--rehype:style=background: rgb(210 168 255);&class=contributing tag&data-lang=Python-->
-[FastAPI](./docs/fastapi.md)<!--rehype:style=background: rgb(210 168 255);&class=contributing tag&data-lang=Python-->
-[Flutter](./docs/flutter.md)<!--rehype:style=background: rgb(150 220 254);&class=contributing tag&data-lang=Dart-->
-[Gitlab CI/CD](./docs/gitlab-ci.md)<!--rehype:style=background: rgb(226 67 41);&class=contributing-->
-[LaTeX](./docs/latex.md)<!--rehype:style=background: rgb(0 128 128);&class=contributing-->
-[Lua](./docs/lua.md)<!--rehype:style=background: rgb(3 3 128);&class=contributing-->
-[NestJS](./docs/nestjs.md)<!--rehype:style=background: rgb(237 21 67);&class=contributing-->
-[MATLAB](./docs/matlab.md)<!--rehype:style=background: rgb(0 118 168);&class=contributing-->
-[Oracle](./docs/oracle.md)<!--rehype:style=background: rgb(255 0 0);&class=contributing tag&data-lang=SQL-->
-[Pytorch](./docs/pytorch.md)<!--rehype:style=background: rgb(238 76 44);&class=contributing tag&data-lang=Python&data-info=👆看看还缺点儿什么？-->
-[Vue 3](./docs/vue.md)<!--rehype:style=background: rgb(64 184 131);&class=contributing-->
-[Github Copilot](./docs/github-copilot.md)<!--rehype:style=background: rgb(125 45 220);&class=tag contributing&data-lang=AI&data-info=👆看看还缺点儿什么？-->
-[Chown](./docs/chown.md)<!--rehype:style=background: rgb(12 75 51/var(\-\-bg\-opacity));&class=contributing-->
-[R 语言](./docs/r.md)<!--rehype:style=background: rgb(39 108 192);&class=contributing-->
-[Elixir](./docs/elixir.md)<!--rehype:style=background: rgb(124 26 156);&class=contributing tag&data-lang=Elixir-->
-[Tauri](./docs/tauri.md)<!--rehype:style=background: rgb(103 214 237);&class=contributing-->
-[Docker Compose](./docs/docker-compose.md)<!--rehype:style=background: rgb(72 143 223);&class=contributing tag&data-lang=Docker-->
+[Ansible](./docs/ansible.md)<!--rehype:style=background:rgb(238 0 0);&class=contributing tag&data-lang=RedHat&data-info=👆看看还缺点儿什么？-->
+[CMake](./docs/cmake.md)<!--rehype:style=background:rgb(92 107 192);&class=contributing-->
+[C#](./docs/cs.md)<!--rehype:style=background:rgb(6 147 13);&class=contributing-->
+[Django](./docs/django.md)<!--rehype:style=background:rgb(12 75 51);&class=contributing tag&data-lang=Python-->
+[FFmpeg](./docs/ffmpeg.md)<!--rehype:style=background:rgb(0 193 9);&class=contributing-->
+[Flask](./docs/flask.md)<!--rehype:style=background:rgb(210 168 255);&class=contributing tag&data-lang=Python-->
+[FastAPI](./docs/fastapi.md)<!--rehype:style=background:rgb(210 168 255);&class=contributing tag&data-lang=Python-->
+[Flutter](./docs/flutter.md)<!--rehype:style=background:rgb(150 220 254);&class=contributing tag&data-lang=Dart-->
+[Gitlab CI/CD](./docs/gitlab-ci.md)<!--rehype:style=background:rgb(226 67 41);&class=contributing-->
+[LaTeX](./docs/latex.md)<!--rehype:style=background:rgb(0 128 128);&class=contributing-->
+[Lua](./docs/lua.md)<!--rehype:style=background:rgb(3 3 128);&class=contributing-->
+[NestJS](./docs/nestjs.md)<!--rehype:style=background:rgb(237 21 67);&class=contributing-->
+[MATLAB](./docs/matlab.md)<!--rehype:style=background:rgb(0 118 168);&class=contributing-->
+[Oracle](./docs/oracle.md)<!--rehype:style=background:rgb(255 0 0);&class=contributing tag&data-lang=SQL-->
+[Pytorch](./docs/pytorch.md)<!--rehype:style=background:rgb(238 76 44);&class=contributing tag&data-lang=Python&data-info=👆看看还缺点儿什么？-->
+[Vue 3](./docs/vue.md)<!--rehype:style=background:rgb(64 184 131);&class=contributing-->
+[Github Copilot](./docs/github-copilot.md)<!--rehype:style=background:rgb(125 45 220);&class=tag contributing&data-lang=AI&data-info=👆看看还缺点儿什么？-->
+[Chown](./docs/chown.md)<!--rehype:style=background:rgb(12 75 51/var(\-\-bg\-opacity));&class=contributing-->
+[R 语言](./docs/r.md)<!--rehype:style=background:rgb(39 108 192);&class=contributing-->
+[Elixir](./docs/elixir.md)<!--rehype:style=background:rgb(124 26 156);&class=contributing tag&data-lang=Elixir-->
+[Tauri](./docs/tauri.md)<!--rehype:style=background:rgb(103 214 237);&class=contributing-->
+[Claude Code](./docs/claude.md)<!--rehype:style=background:rgb(217 119 87);&class=contributing tag&data-lang=AI-->
 <!--rehype:class=home-card-->
 
 ## 编程
 
-[Bash](./docs/bash.md)<!--rehype:style=background: rgb(72 143 223);-->
-[Powershell](./docs/powershell.md)<!--rehype:style=background: rgb(0 81 197);-->
-[C 语言](./docs/c.md)<!--rehype:style=background: rgb(92 107 192);-->
-[C#](./docs/cs.md)<!--rehype:style=background: rgb(6 147 13);&class=contributing-->
-[C++](./docs/cpp.md)<!--rehype:style=background: rgb(6 147 13);&class=contributing-->
-[Dart](./docs/dart.md)<!--rehype:style=background: rgb(64 196 255);-->
-[Elixir](./docs/elixir.md)<!--rehype:style=background: rgb(124 26 156);&class=contributing tag&data-lang=Elixir-->
-[Erlang](./docs/erlang.md)<!--rehype:style=background: rgb(206 55 97);&class=contributing-->
-[Flutter](./docs/flutter.md)<!--rehype:style=background: rgb(150 220 254);&class=contributing tag&data-lang=Dart-->
-[Golang](./docs/golang.md)<!--rehype:style=background: rgb(39 160 193);-->
-[GraphQL](./docs/graphql.md)<!--rehype:style=background: rgb(214 66 146);-->
-[Hook](./docs/hook.md)<!--rehype:style=background: rgb(211 55 49);-->
-[Java](./docs/java.md)<!--rehype:style=background: rgb(211 55 49);&class=contributing&data-info=👆看看还缺点儿什么？-->
-[Julia](./docs/julia.md)<!--rehype:style=background: rgb(26 188 156);&class=contributing&data-info=👆看看还缺点儿什么？-->
-[Kotlin](./docs/kotlin.md)<!--rehype:style=background: rgb(211 55 49);&class=contributing&data-info=👆看看还缺点儿什么？-->
-[Kubernetes](./docs/kubernetes.md)<!--rehype:style=background: rgb(51 113 227);&class=contributing&data-info=👆看看还缺点儿什么？-->
-[LaTeX](./docs/latex.md)<!--rehype:style=background: rgb(0 128 128);&class=contributing-->
-[Laravel 8](./docs/laravel.md)<!--rehype:style=background: rgb(249 50 44);&class=contributing tag&data-lang=PHP-->
-[Lua](./docs/lua.md)<!--rehype:style=background: rgb(3 3 128);-->
-[Markdown](./docs/markdown.md)<!--rehype:style=background: rgb(103 61 156);-->
-[MATLAB](./docs/matlab.md)<!--rehype:style=background: rgb(0 118 168);&class=contributing-->
-[Nix](./docs/nix.md)<!--rehype:style=background: rgb(9 90 125);&class=contributing-->
-[PHP](./docs/php.md)<!--rehype:style=background: rgb(79 91 147);-->
-[R 语言](./docs/r.md)<!--rehype:style=background: rgb(39 108 192);&class=contributing&data-info-->
-[Ruby](./docs/ruby.md)<!--rehype:style=background: rgb(204 52 45);-->
-[Rust](./docs/rust.md)<!--rehype:style=background: rgb(71 71 71);-->
-[Scala](./docs/scala.md)<!--rehype:style=background: rgb(34 82 94);-->
-[Swift](./docs/swift.md)<!--rehype:style=background: rgb(240 81 57);-->
-[SwiftUI](./docs/swiftui.md)<!--rehype:style=background: rgb(10 127 247);&class=tag&data-lang=swift-->
-[Spring Boot](./docs/springboot.md)<!--rehype:style=background: rgb(0 149 0);&class=tag&data-lang=Java-->
-[Minio](./docs/minio.md)<!--rehype:style=background: rgb(3 3 128);-->
+[Bash](./docs/bash.md)<!--rehype:style=background:rgb(72 143 223);-->
+[Powershell](./docs/powershell.md)<!--rehype:style=background:rgb(0 81 197);-->
+[C 语言](./docs/c.md)<!--rehype:style=background:rgb(92 107 192);-->
+[C#](./docs/cs.md)<!--rehype:style=background:rgb(6 147 13);&class=contributing-->
+[C++](./docs/cpp.md)<!--rehype:style=background:rgb(6 147 13);&class=contributing-->
+[Dart](./docs/dart.md)<!--rehype:style=background:rgb(64 196 255);-->
+[Elixir](./docs/elixir.md)<!--rehype:style=background:rgb(124 26 156);&class=contributing tag&data-lang=Elixir-->
+[Erlang](./docs/erlang.md)<!--rehype:style=background:rgb(206 55 97);&class=contributing-->
+[Flutter](./docs/flutter.md)<!--rehype:style=background:rgb(150 220 254);&class=contributing tag&data-lang=Dart-->
+[Golang](./docs/golang.md)<!--rehype:style=background:rgb(39 160 193);-->
+[GraphQL](./docs/graphql.md)<!--rehype:style=background:rgb(214 66 146);-->
+[Hook](./docs/hook.md)<!--rehype:style=background:rgb(211 55 49);-->
+[Java](./docs/java.md)<!--rehype:style=background:rgb(211 55 49);&class=contributing&data-info=👆看看还缺点儿什么？-->
+[Julia](./docs/julia.md)<!--rehype:style=background:rgb(26 188 156);&class=contributing&data-info=👆看看还缺点儿什么？-->
+[Kotlin](./docs/kotlin.md)<!--rehype:style=background:rgb(211 55 49);&class=contributing&data-info=👆看看还缺点儿什么？-->
+[Kubernetes](./docs/kubernetes.md)<!--rehype:style=background:rgb(51 113 227);&class=contributing&data-info=👆看看还缺点儿什么？-->
+[LaTeX](./docs/latex.md)<!--rehype:style=background:rgb(0 128 128);&class=contributing-->
+[Laravel 8](./docs/laravel.md)<!--rehype:style=background:rgb(249 50 44);&class=contributing tag&data-lang=PHP-->
+[Lua](./docs/lua.md)<!--rehype:style=background:rgb(3 3 128);-->
+[Markdown](./docs/markdown.md)<!--rehype:style=background:rgb(103 61 156);-->
+[MATLAB](./docs/matlab.md)<!--rehype:style=background:rgb(0 118 168);&class=contributing-->
+[Nix](./docs/nix.md)<!--rehype:style=background:rgb(9 90 125);&class=contributing-->
+[PHP](./docs/php.md)<!--rehype:style=background:rgb(79 91 147);-->
+[R 语言](./docs/r.md)<!--rehype:style=background:rgb(39 108 192);&class=contributing&data-info-->
+[Ruby](./docs/ruby.md)<!--rehype:style=background:rgb(204 52 45);-->
+[Rust](./docs/rust.md)<!--rehype:style=background:rgb(71 71 71);-->
+[Scala](./docs/scala.md)<!--rehype:style=background:rgb(34 82 94);-->
+[Swift](./docs/swift.md)<!--rehype:style=background:rgb(240 81 57);-->
+[SwiftUI](./docs/swiftui.md)<!--rehype:style=background:rgb(10 127 247);&class=tag&data-lang=swift-->
+[Spring Boot](./docs/springboot.md)<!--rehype:style=background:rgb(0 149 0);&class=tag&data-lang=Java-->
+[Minio](./docs/minio.md)<!--rehype:style=background:rgb(3 3 128);-->
 <!--rehype:class=home-card-->
 
 ## Docker
 
-[Docker](./docs/docker.md)<!--rehype:style=background: rgb(72 143 223);-->
-[Docker Compose](./docs/docker-compose.md)<!--rehype:style=background: rgb(72 143 223);&class=contributing tag&data-lang=Docker-->
-[Dockerfile](./docs/dockerfile.md)<!--rehype:style=background: rgb(0 72 153);&class=tag&data-lang=Docker-->
+[Docker](./docs/docker.md)<!--rehype:style=background:rgb(72 143 223);-->
+[Docker Compose](./docs/docker-compose.md)<!--rehype:style=background:rgb(72 143 223);&class=contributing tag&data-lang=Docker-->
+[Dockerfile](./docs/dockerfile.md)<!--rehype:style=background:rgb(0 72 153);&class=tag&data-lang=Docker-->
 <!--rehype:class=home-card-->
 
 ## 配置
 
-[INI](./docs/ini.md)<!--rehype:style=background: rgb(57 59 60);-->
-[JSON](./docs/json.md)<!--rehype:style=background: rgb(57 59 60);-->
-[TOML](./docs/toml.md)<!--rehype:style=background: rgb(132 132 132);-->
-[YAML](./docs/yaml.md)<!--rehype:style=background: rgb(91 163 230);-->
+[INI](./docs/ini.md)<!--rehype:style=background:rgb(57 59 60);-->
+[JSON](./docs/json.md)<!--rehype:style=background:rgb(57 59 60);-->
+[TOML](./docs/toml.md)<!--rehype:style=background:rgb(132 132 132);-->
+[YAML](./docs/yaml.md)<!--rehype:style=background:rgb(91 163 230);-->
 <!--rehype:class=home-card-->
 
 ## 前端
 
-[前端导航](./docs/feds.md)<!--rehype:style=background: rgb(35 115 205);&class=tag&data-lang=导航-->
-[Emmet](./docs/emmet.md)<!--rehype:style=background: rgb(122 203 23);-->
-[ES 6](./docs/es6.md)<!--rehype:style=background: rgb(122 203 23);&class=tag&data-lang=JS-->
-[HTML](./docs/html.md)<!--rehype:style=background: rgb(228 77 39);-->
-[HTML Canvas](./docs/canvas.md)<!--rehype:style=background: rgb(228 77 39);-->
-[JavaScript](./docs/javascript.md)<!--rehype:style=background: rgb(203 183 31);-->
-[jQuery](./docs/jquery.md)<!--rehype:style=background: rgb(203 183 31);-->
-[Next.js](./docs/nextjs.md)<!--rehype:style=background: rgb(0 0 0);&class=tag&data-lang=React-->
-[RxJS](./docs/rxjs.md)<!--rehype:style=background: rgb(151 0 81);-->
-[React](./docs/react.md)<!--rehype:style=background: rgb(34 143 173);-->
-[React Router](./docs/reactrouter.md)<!--rehype:style=background: rgb(244 66 79);&class=tag&data-lang=React-->
-[TypeScript](./docs/typescript.md)<!--rehype:style=background: rgb(49 120 198);-->
-[Vue 2](./docs/vue2.md)<!--rehype:style=background: rgb(64 184 131);&class=tag&data-lang=Vue-->
-[Vue 3](./docs/vue.md)<!--rehype:style=background: rgb(64 184 131);&class=tag&class=contributing tag&data-lang=Vue-->
-[</> htmx](./docs/htmx.md)<!--rehype:style=background: rgb(52 101 164);&class=contributing-->
-[Pinia](./docs/pinia.md)<!--rehype:style=background: rgb(44 136 50);&class=tag&data-lang=Vue-->
+[前端导航](./docs/feds.md)<!--rehype:style=background:rgb(35 115 205);&class=tag&data-lang=导航-->
+[Emmet](./docs/emmet.md)<!--rehype:style=background:rgb(122 203 23);-->
+[ES 6](./docs/es6.md)<!--rehype:style=background:rgb(122 203 23);&class=tag&data-lang=JS-->
+[HTML](./docs/html.md)<!--rehype:style=background:rgb(228 77 39);-->
+[HTML Canvas](./docs/canvas.md)<!--rehype:style=background:rgb(228 77 39);-->
+[JavaScript](./docs/javascript.md)<!--rehype:style=background:rgb(203 183 31);-->
+[jQuery](./docs/jquery.md)<!--rehype:style=background:rgb(203 183 31);-->
+[Next.js](./docs/nextjs.md)<!--rehype:style=background:rgb(0 0 0);&class=tag&data-lang=React-->
+[RxJS](./docs/rxjs.md)<!--rehype:style=background:rgb(151 0 81);-->
+[React](./docs/react.md)<!--rehype:style=background:rgb(34 143 173);-->
+[React Router](./docs/reactrouter.md)<!--rehype:style=background:rgb(244 66 79);&class=tag&data-lang=React-->
+[TypeScript](./docs/typescript.md)<!--rehype:style=background:rgb(49 120 198);-->
+[Vue 2](./docs/vue2.md)<!--rehype:style=background:rgb(64 184 131);&class=tag&data-lang=Vue-->
+[Vue 3](./docs/vue.md)<!--rehype:style=background:rgb(64 184 131);&class=tag&class=contributing tag&data-lang=Vue-->
+[</> htmx](./docs/htmx.md)<!--rehype:style=background:rgb(52 101 164);&class=contributing-->
+[Pinia](./docs/pinia.md)<!--rehype:style=background:rgb(44 136 50);&class=tag&data-lang=Vue-->
 <!--rehype:class=home-card-->
 
 ## CSS
 
-[CSS 3](./docs/css.md)<!--rehype:style=background: rgb(35 115 205);&class=tag&data-lang=CSS-->
-[Styled Components](./docs/styled-components.md)<!--rehype:style=background: rgb(221 60 184);&class=tag&data-lang=CSS-->
-[Stylus](./docs/stylus.md)<!--rehype:style=background: rgb(109 161 63);&class=tag&data-lang=CSS-->
-[Sass](./docs/sass.md)<!--rehype:style=background: rgb(207 100 154);&class=tag&data-lang=CSS-->
-[Less.js](./docs/lessjs.md)<!--rehype:style=background: rgb(29 54 93);&class=tag&data-lang=CSS-->
-[Tailwind CSS](./docs/tailwindcss.md)<!--rehype:style=background: rgb(49 120 198);&class=tag&data-lang=CSS-->
-[StyleX](./docs/stylex.md)<!--rehype:style=background: rgb(91 79 163);&class=tag&data-lang=CSS-->
+[CSS 3](./docs/css.md)<!--rehype:style=background:rgb(35 115 205);&class=tag&data-lang=CSS-->
+[Styled Components](./docs/styled-components.md)<!--rehype:style=background:rgb(221 60 184);&class=tag&data-lang=CSS-->
+[Stylus](./docs/stylus.md)<!--rehype:style=background:rgb(109 161 63);&class=tag&data-lang=CSS-->
+[Sass](./docs/sass.md)<!--rehype:style=background:rgb(207 100 154);&class=tag&data-lang=CSS-->
+[Less.js](./docs/lessjs.md)<!--rehype:style=background:rgb(29 54 93);&class=tag&data-lang=CSS-->
+[Tailwind CSS](./docs/tailwindcss.md)<!--rehype:style=background:rgb(49 120 198);&class=tag&data-lang=CSS-->
+[StyleX](./docs/stylex.md)<!--rehype:style=background:rgb(91 79 163);&class=tag&data-lang=CSS-->
 <!--rehype:class=home-card-->
 
 ## 客户端
 
-[Electron](./docs/electron.md)<!--rehype:style=background: rgb(0 72 153);-->
-[React Native](./docs/react-native.md)<!--rehype:style=background: rgb(34 143 173);&class=tag&data-lang=React-->
-[Tauri](./docs/tauri.md)<!--rehype:style=background: rgb(103 214 237);&class=contributing-->
-[Wails](./docs/wails.md)<!--rehype:style=background: rgb(194 106 107);&class=contributing-->
+[Electron](./docs/electron.md)<!--rehype:style=background:rgb(0 72 153);-->
+[React Native](./docs/react-native.md)<!--rehype:style=background:rgb(34 143 173);&class=tag&data-lang=React-->
+[Tauri](./docs/tauri.md)<!--rehype:style=background:rgb(103 214 237);&class=contributing-->
+[Wails](./docs/wails.md)<!--rehype:style=background:rgb(194 106 107);&class=contributing-->
 <!--rehype:class=home-card-->
 
 ## Nodejs
 
-[Express.js](./docs/expressjs.md)<!--rehype:style=background: rgb(95 151 206);-->
-[Ejs](./docs/ejs.md)<!--rehype:style=background: rgb(169 30 80);&class=tag&data-lang=JavaScript-->
-[Jest](./docs/jest.md)<!--rehype:style=background: rgb(153 66 91);-->
-[Koa.js](./docs/koajs.md)<!--rehype:style=background: rgb(95 151 206);-->
-[Lerna](./docs/lerna.md)<!--rehype:style=background: rgb(192 132 252);-->
-[npm](./docs/npm.md)<!--rehype:style=background: rgb(203 2 0);-->
-[NestJS](./docs/nestjs.md)<!--rehype:style=background: rgb(237 21 67);&class=contributing-->
-[PM2](./docs/pm2.md)<!--rehype:style=background: rgb(73 117 241);&class=contributing-->
-[package.json](./docs/package.json.md)<!--rehype:style=background: rgb(132 132 132);-->
-[Yarn](./docs/yarn.md)<!--rehype:style=background: rgb(33 136 182);-->
-[nvm](./docs/nvm.md)<!--rehype:style=background: rgb(132 132 132);-->
-[pnpm](./docs/pnpm.md)<!--rehype:style=background: rgb(191 133 0);-->
-[Bun](./docs/bun.md)<!--rehype:style=background: rgb(157 49 81);-->
+[Express.js](./docs/expressjs.md)<!--rehype:style=background:rgb(95 151 206);-->
+[Ejs](./docs/ejs.md)<!--rehype:style=background:rgb(169 30 80);&class=tag&data-lang=JavaScript-->
+[Jest](./docs/jest.md)<!--rehype:style=background:rgb(153 66 91);-->
+[Koa.js](./docs/koajs.md)<!--rehype:style=background:rgb(95 151 206);-->
+[Lerna](./docs/lerna.md)<!--rehype:style=background:rgb(192 132 252);-->
+[npm](./docs/npm.md)<!--rehype:style=background:rgb(203 2 0);-->
+[NestJS](./docs/nestjs.md)<!--rehype:style=background:rgb(237 21 67);&class=contributing-->
+[PM2](./docs/pm2.md)<!--rehype:style=background:rgb(73 117 241);&class=contributing-->
+[package.json](./docs/package.json.md)<!--rehype:style=background:rgb(132 132 132);-->
+[Yarn](./docs/yarn.md)<!--rehype:style=background:rgb(33 136 182);-->
+[nvm](./docs/nvm.md)<!--rehype:style=background:rgb(132 132 132);-->
+[pnpm](./docs/pnpm.md)<!--rehype:style=background:rgb(191 133 0);-->
+[Bun](./docs/bun.md)<!--rehype:style=background:rgb(157 49 81);-->
 <!--rehype:class=home-card-->
 
 ## Python
 
-[Python](./docs/python.md)<!--rehype:style=background: rgb(43 91 132);-->
-[Django](./docs/django.md)<!--rehype:style=background: rgb(12 75 51);&class=contributing tag&data-lang=Python-->
-[Flask](./docs/flask.md)<!--rehype:style=background: rgb(210 168 255);&class=contributing tag&data-lang=Python-->
-[FastAPI](./docs/fastapi.md)<!--rehype:style=background: rgb(210 168 255);&class=contributing tag&data-lang=Python-->
-[Pytorch](./docs/pytorch.md)<!--rehype:style=background: rgb(238 76 44);&class=contributing tag&data-lang=Python&data-info=👆看看还缺点儿什么？-->
-[Jupyter](./docs/jupyter.md)<!--rehype:style=background: rgb(0 72 153);&class=tag&data-lang=Python-->
-[Conda](./docs/conda.md)<!--rehype:style=background: rgb(68 168 51);&class=tag&data-lang=Python-->
-[pip](./docs/pip.md)<!--rehype:style=background: rgb(24 147 209);&class=tag contributing&data-lang=Python-->
-[uv](./docs/uv.md)<!--rehype:style=background: rgb(26 35 126);&class=tag contributing&data-lang=Python-->
+[Python](./docs/python.md)<!--rehype:style=background:rgb(43 91 132);-->
+[Django](./docs/django.md)<!--rehype:style=background:rgb(12 75 51);&class=contributing tag&data-lang=Python-->
+[Flask](./docs/flask.md)<!--rehype:style=background:rgb(210 168 255);&class=contributing tag&data-lang=Python-->
+[FastAPI](./docs/fastapi.md)<!--rehype:style=background:rgb(210 168 255);&class=contributing tag&data-lang=Python-->
+[Pytorch](./docs/pytorch.md)<!--rehype:style=background:rgb(238 76 44);&class=contributing tag&data-lang=Python&data-info=👆看看还缺点儿什么？-->
+[Jupyter](./docs/jupyter.md)<!--rehype:style=background:rgb(0 72 153);&class=tag&data-lang=Python-->
+[Conda](./docs/conda.md)<!--rehype:style=background:rgb(68 168 51);&class=tag&data-lang=Python-->
+[pip](./docs/pip.md)<!--rehype:style=background:rgb(24 147 209);&class=tag contributing&data-lang=Python-->
+[uv](./docs/uv.md)<!--rehype:style=background:rgb(26 35 126);&class=tag contributing&data-lang=Python-->
 <!--rehype:class=home-card-->
 
 ## 命令
 
-[ADB, Android Debug Bridge](./docs/adb.md)<!--rehype:style=background: rgb(238 0 0);&class=contributing tag&data-lang=Android&data-info=👆看看还缺点儿什么？-->
-[Ansible](./docs/ansible.md)<!--rehype:style=background: rgb(238 0 0);&class=contributing tag&data-lang=RedHat&data-info=👆看看还缺点儿什么？-->
-[Awk](./docs/awk.md)<!--rehype:style=background: rgb(16 185 129);-->
-[Curl](./docs/curl.md)<!--rehype:style=background: rgb(16 185 129);-->
-[Chmod](./docs/chmod.md)<!--rehype:style=background: rgb(16 185 129);-->
-[Chown](./docs/chown.md)<!--rehype:style=background: rgb(12 75 51/var(\-\-bg\-opacity));&class=contributing-->
-[Cron](./docs/cron.md)<!--rehype:style=background: rgb(239 68 68);-->
-[CMake](./docs/cmake.md)<!--rehype:style=background: rgb(92 107 192);&class=contributing-->
-[CMD](./docs/cmd.md)<!--rehype:style=background: rgb(99 99 99);-->
-[.NET CLI](./docs/dotnet-cli.md)<!--rehype:style=background: rgb(16 185 129);&class=contributing tag&data-lang=#C-->
-[Find](./docs/find.md)<!--rehype:style=background: rgb(16 185 129);-->
-[FFmpeg](./docs/ffmpeg.md)<!--rehype:style=background: rgb(0 193 9);&class=contributing-->
-[FTP](./docs/ftp.md)<!--rehype:style=background: rgb(99 99 99);-->
-[Gdb](./docs/gdb.md)<!--rehype:style=background: rgb(215 89 62);-->
-[Glances](./docs/glances.md)<!--rehype:style=background: rgb(16 185 129);-->
-[Grep](./docs/grep.md)<!--rehype:style=background: rgb(16 185 129);-->
-[Htop](./docs/htop.md)<!--rehype:style=background: rgb(16 185 129);-->
-[iptables](./docs/iptables.md)<!--rehype:style=background: rgb(32 74 135);-->
-[jq](./docs/jq.md)<!--rehype:style=background: rgb(16 185 129);&class=tag&data-lang=JSON-->
-[Justfile](./docs/justfile.md)<!--rehype:style=background: rgb(16 185 129);-->
-[Lsof](./docs/lsof.md)<!--rehype:style=background: rgb(16 185 129);-->
-[Make](./docs/make.md)<!--rehype:style=background: rgb(99 99 99);&class=contributing-->
-[Netstat](./docs/netstat.md)<!--rehype:style=background: rgb(16 185 129);-->
-[Netcat](./docs/netcat.md)<!--rehype:style=background: rgb(4 92 135);-->
-[OpenSSL](./docs/openssl.md)<!--rehype:style=background: rgb(114 20 18);-->
-[ps](./docs/ps.md)<!--rehype:style=background: rgb(99 99 99);-->
-[Pandoc](./docs/pandoc.md)<!--rehype:style=background: rgb(99 99 99);&class=tag&data-lang=文档转换器-->
-[Sed](./docs/sed.md)<!--rehype:style=background: rgb(16 185 129);-->
-[Systemd](./docs/systemd.md)<!--rehype:style=background: rgb(16 185 129);-->
-[SSH](./docs/ssh.md)<!--rehype:style=background: rgb(99 99 99);-->
-[Screen](./docs/screen.md)<!--rehype:style=background: rgb(99 99 99);-->
-[Sysdig](./docs/sysdig.md)<!--rehype:style=background: rgb(1 171 199);-->
-[Tmux](./docs/tmux.md)<!--rehype:style=background: rgb(99 99 99);-->
-[Taskset](./docs/taskset.md)<!--rehype:style=background: rgb(99 99 99);-->
-[tar](./docs/tar.md)<!--rehype:style=background: rgb(215 89 62);&class=tag&data-lang=解压缩-->
-[Yazi](./docs/yazi.md)<!--rehype:style=background: rgb(255 165 0);&class=tag&data-lang=文件管理器;&class=contributing-->
-[Zip](./docs/zip.md)<!--rehype:style=background: rgb(99 99 99);&class=tag&data-lang=解压缩-->
+[ADB, Android Debug Bridge](./docs/adb.md)<!--rehype:style=background:rgb(238 0 0);&class=contributing tag&data-lang=Android&data-info=👆看看还缺点儿什么？-->
+[Ansible](./docs/ansible.md)<!--rehype:style=background:rgb(238 0 0);&class=contributing tag&data-lang=RedHat&data-info=👆看看还缺点儿什么？-->
+[Awk](./docs/awk.md)<!--rehype:style=background:rgb(16 185 129);-->
+[Curl](./docs/curl.md)<!--rehype:style=background:rgb(16 185 129);-->
+[Chmod](./docs/chmod.md)<!--rehype:style=background:rgb(16 185 129);-->
+[Chown](./docs/chown.md)<!--rehype:style=background:rgb(12 75 51/var(\-\-bg\-opacity));&class=contributing-->
+[Cron](./docs/cron.md)<!--rehype:style=background:rgb(239 68 68);-->
+[CMake](./docs/cmake.md)<!--rehype:style=background:rgb(92 107 192);&class=contributing-->
+[CMD](./docs/cmd.md)<!--rehype:style=background:rgb(99 99 99);-->
+[.NET CLI](./docs/dotnet-cli.md)<!--rehype:style=background:rgb(16 185 129);&class=contributing tag&data-lang=#C-->
+[Find](./docs/find.md)<!--rehype:style=background:rgb(16 185 129);-->
+[FFmpeg](./docs/ffmpeg.md)<!--rehype:style=background:rgb(0 193 9);&class=contributing-->
+[FTP](./docs/ftp.md)<!--rehype:style=background:rgb(99 99 99);-->
+[Gdb](./docs/gdb.md)<!--rehype:style=background:rgb(215 89 62);-->
+[Glances](./docs/glances.md)<!--rehype:style=background:rgb(16 185 129);-->
+[Grep](./docs/grep.md)<!--rehype:style=background:rgb(16 185 129);-->
+[Htop](./docs/htop.md)<!--rehype:style=background:rgb(16 185 129);-->
+[iptables](./docs/iptables.md)<!--rehype:style=background:rgb(32 74 135);-->
+[jq](./docs/jq.md)<!--rehype:style=background:rgb(16 185 129);&class=tag&data-lang=JSON-->
+[Justfile](./docs/justfile.md)<!--rehype:style=background:rgb(16 185 129);-->
+[Lsof](./docs/lsof.md)<!--rehype:style=background:rgb(16 185 129);-->
+[Make](./docs/make.md)<!--rehype:style=background:rgb(99 99 99);&class=contributing-->
+[Netstat](./docs/netstat.md)<!--rehype:style=background:rgb(16 185 129);-->
+[Netcat](./docs/netcat.md)<!--rehype:style=background:rgb(4 92 135);-->
+[OpenSSL](./docs/openssl.md)<!--rehype:style=background:rgb(114 20 18);-->
+[ps](./docs/ps.md)<!--rehype:style=background:rgb(99 99 99);-->
+[Pandoc](./docs/pandoc.md)<!--rehype:style=background:rgb(99 99 99);&class=tag&data-lang=文档转换器-->
+[Sed](./docs/sed.md)<!--rehype:style=background:rgb(16 185 129);-->
+[Systemd](./docs/systemd.md)<!--rehype:style=background:rgb(16 185 129);-->
+[SSH](./docs/ssh.md)<!--rehype:style=background:rgb(99 99 99);-->
+[Screen](./docs/screen.md)<!--rehype:style=background:rgb(99 99 99);-->
+[Sysdig](./docs/sysdig.md)<!--rehype:style=background:rgb(1 171 199);-->
+[Tmux](./docs/tmux.md)<!--rehype:style=background:rgb(99 99 99);-->
+[Taskset](./docs/taskset.md)<!--rehype:style=background:rgb(99 99 99);-->
+[tar](./docs/tar.md)<!--rehype:style=background:rgb(215 89 62);&class=tag&data-lang=解压缩-->
+[Yazi](./docs/yazi.md)<!--rehype:style=background:rgb(255 165 0);&class=tag&data-lang=文件管理器;&class=contributing-->
+[Zip](./docs/zip.md)<!--rehype:style=background:rgb(99 99 99);&class=tag&data-lang=解压缩-->
 <!--rehype:class=home-card-->
 
 ## 工具
 
-[ChatGPT](./docs/chatgpt.md)<!--rehype:style=background: rgb(74, 161, 129);&class=tag&data-lang=AI-->
-[Emacs](./docs/emacs.md)<!--rehype:style=background: rgb(98 36 134);-->
-[Linux Command](./docs/linux-command.md)<!--rehype:style=background: rgb(215 89 62);&class=tag&data-lang=命令速查-->
-[Mitmproxy](./docs/mitmproxy.md)<!--rehype:style=background: rgb(4 92 135);-->
-[nginx](./docs/nginx.md)<!--rehype:style=background: rgb(0 153 0);-->
-[RegEx 正则表达式](./docs/regex.md)<!--rehype:style=background: rgb(149 36 155);-->
-[Semver 语义化版本](./docs/semver.md)<!--rehype:style=background: rgb(106 111 141);-->
-[Vim](./docs/vim.md)<!--rehype:style=background: rgb(9 150 8);-->
-[XPath](./docs/xpath.md)<!--rehype:style=background: rgb(91 163 230);-->
+[ChatGPT](./docs/chatgpt.md)<!--rehype:style=background:rgb(74 161 129);&class=tag&data-lang=AI-->
+[Claude Code](./docs/claude.md)<!--rehype:style=background:rgb(217 119 87);&class=tag&data-lang=AI-->
+[Emacs](./docs/emacs.md)<!--rehype:style=background:rgb(98 36 134);-->
+[Linux Command](./docs/linux-command.md)<!--rehype:style=background:rgb(215 89 62);&class=tag&data-lang=命令速查-->
+[Mitmproxy](./docs/mitmproxy.md)<!--rehype:style=background:rgb(4 92 135);-->
+[nginx](./docs/nginx.md)<!--rehype:style=background:rgb(0 153 0);-->
+[RegEx 正则表达式](./docs/regex.md)<!--rehype:style=background:rgb(149 36 155);-->
+[Semver 语义化版本](./docs/semver.md)<!--rehype:style=background:rgb(106 111 141);-->
+[Vim](./docs/vim.md)<!--rehype:style=background:rgb(9 150 8);-->
+[XPath](./docs/xpath.md)<!--rehype:style=background:rgb(91 163 230);-->
 <!--rehype:class=home-card-->
 
 ## 软件包管理器
 
-[APT](./docs/apt.md)<!--rehype:style=background: rgb(30 144 255);-->
-[Conan](./docs/conan.md)<!--rehype:style=background: rgb(0 193 9);&class=tag&data-lang=C/C++-->
-[CocoaPods](./docs/cocoapods.md)<!--rehype:style=background: rgb(251 0 6);&class=tag&data-lang=C/C++-->
-[Cargo](./docs/cargo.md)<!--rehype:style=background: rgb(71 71 71);&class=tag&data-lang=Rust-->
-[Homebrew](./docs/homebrew.md)<!--rehype:style=background: rgb(252 185 87);&class=tag&data-lang=macOS-->
-[Pacman](./docs/pacman.md)<!--rehype:style=background: rgb(24 147 209);&class=tag contributing&data-lang=Linux-->
-[YUM](./docs/yum.md)<!--rehype:style=background: rgb(86 86 123);-->
-[SDKMAN](./docs/sdkman.md)<!--rehype:style=background: rgb(0 118 198);-->
+[APT](./docs/apt.md)<!--rehype:style=background:rgb(30 144 255);-->
+[Conan](./docs/conan.md)<!--rehype:style=background:rgb(0 193 9);&class=tag&data-lang=C/C++-->
+[CocoaPods](./docs/cocoapods.md)<!--rehype:style=background:rgb(251 0 6);&class=tag&data-lang=C/C++-->
+[Cargo](./docs/cargo.md)<!--rehype:style=background:rgb(71 71 71);&class=tag&data-lang=Rust-->
+[Homebrew](./docs/homebrew.md)<!--rehype:style=background:rgb(252 185 87);&class=tag&data-lang=macOS-->
+[Pacman](./docs/pacman.md)<!--rehype:style=background:rgb(24 147 209);&class=tag contributing&data-lang=Linux-->
+[YUM](./docs/yum.md)<!--rehype:style=background:rgb(86 86 123);-->
+[SDKMAN](./docs/sdkman.md)<!--rehype:style=background:rgb(0 118 198);-->
 <!--rehype:class=home-card-->
 
 ## Git 版本控制
 
-[Git](./docs/git.md)<!--rehype:style=background: rgb(215 89 62);&class=tag&data-lang=版本控制-->
-[Github](./docs/github.md)<!--rehype:style=background: rgb(36 41 47);-->
-[Github Copilot](./docs/github-copilot.md)<!--rehype:style=background: rgb(125 45 220);&class=tag contributing&data-lang=AI&data-info=👆看看还缺点儿什么？-->
-[Github CLI](./docs/github-cli.md)<!--rehype:style=background: rgb(36 41 47);-->
-[Github Actions](./docs/github-actions.md)<!--rehype:style=background: rgb(121 184 255);-->
-[Gitlab CI/CD](./docs/gitlab-ci.md)<!--rehype:style=background: rgb(226 67 41);&class=contributing-->
-[Subversion (SVN)](./docs/subversion.md)<!--rehype:style=background: rgb(99 99 99);&class=tag&data-lang=版本控制-->
+[Git](./docs/git.md)<!--rehype:style=background:rgb(215 89 62);&class=tag&data-lang=版本控制-->
+[Github](./docs/github.md)<!--rehype:style=background:rgb(36 41 47);-->
+[Github Copilot](./docs/github-copilot.md)<!--rehype:style=background:rgb(125 45 220);&class=tag contributing&data-lang=AI&data-info=👆看看还缺点儿什么？-->
+[Github CLI](./docs/github-cli.md)<!--rehype:style=background:rgb(36 41 47);-->
+[Github Actions](./docs/github-actions.md)<!--rehype:style=background:rgb(121 184 255);-->
+[Gitlab CI/CD](./docs/gitlab-ci.md)<!--rehype:style=background:rgb(226 67 41);&class=contributing-->
+[Subversion (SVN)](./docs/subversion.md)<!--rehype:style=background:rgb(99 99 99);&class=tag&data-lang=版本控制-->
 <!--rehype:class=home-card-->
 
 ## 数据库
 
-[MySQL](./docs/mysql.md)<!--rehype:style=background: rgb(1 117 143);&class=tag&data-lang=SQL-->
-[MongoDB](./docs/mongodb.md)<!--rehype:style=background: rgb(0 237 100);-->
-[Oracle](./docs/oracle.md)<!--rehype:style=background: rgb(255 0 0);&class=tag&data-lang=SQL-->
-[PostgreSQL](./docs/postgres.md)<!--rehype:style=background: rgb(43 109 163);&class=tag&data-lang=SQL-->
-[Redis](./docs/redis.md)<!--rehype:style=background: rgb(198 47 44);-->
-[Elasticsearch](./docs/elasticsearch.md)<!--rehype:style=background: rgb(36 187 177);-->
-[Neo4j](./docs/neo4j.md)<!--rehype:style=background: rgb(86 86 123);-->
-[SQLite](./docs/sqlite.md)<!--rehype:style=background: rgb(0 59 90);-->
+[MySQL](./docs/mysql.md)<!--rehype:style=background:rgb(1 117 143);&class=tag&data-lang=SQL-->
+[MongoDB](./docs/mongodb.md)<!--rehype:style=background:rgb(0 237 100);-->
+[Oracle](./docs/oracle.md)<!--rehype:style=background:rgb(255 0 0);&class=tag&data-lang=SQL-->
+[PostgreSQL](./docs/postgres.md)<!--rehype:style=background:rgb(43 109 163);&class=tag&data-lang=SQL-->
+[Redis](./docs/redis.md)<!--rehype:style=background:rgb(198 47 44);-->
+[Elasticsearch](./docs/elasticsearch.md)<!--rehype:style=background:rgb(36 187 177);-->
+[Neo4j](./docs/neo4j.md)<!--rehype:style=background:rgb(86 86 123);-->
+[SQLite](./docs/sqlite.md)<!--rehype:style=background:rgb(0 59 90);-->
 <!--rehype:class=home-card-->
 
 ## 快捷键
@@ -398,10 +401,11 @@ Quick Reference
 <a href="https://github.com/LesterChang0987" title="Steve Hartwell"><img src="https://avatars.githubusercontent.com/u/114913921?v=4" width="42;" alt="Steve Hartwell"/></a>
 <a href="https://github.com/h7ml" title="h7ml"><img src="https://avatars.githubusercontent.com/u/55233292?v=4" width="42;" alt="h7ml"/></a>
 <a href="https://github.com/nangongchengfeng" title="南宫乘风"><img src="https://avatars.githubusercontent.com/u/46562911?v=4" width="42;" alt="南宫乘风"/></a>
-<a href="https://github.com/aixcyi" title="路狐羽"><img src="https://avatars.githubusercontent.com/u/75880483?v=4" width="42;" alt="路狐羽"/></a>
+<a href="https://github.com/aixcyi" title="阿羽"><img src="https://avatars.githubusercontent.com/u/75880483?v=4" width="42;" alt="阿羽"/></a>
 <a href="https://github.com/LufsX" title="LufsX"><img src="https://avatars.githubusercontent.com/u/33221883?v=4" width="42;" alt="LufsX"/></a>
 <a href="https://github.com/liduchuan" title="Alex"><img src="https://avatars.githubusercontent.com/u/115539090?v=4" width="42;" alt="Alex"/></a>
 <a href="https://github.com/mailbaoer" title="baoer"><img src="https://avatars.githubusercontent.com/u/5282978?v=4" width="42;" alt="baoer"/></a>
+<a href="https://github.com/expoli" title="expoli"><img src="https://avatars.githubusercontent.com/u/31023767?v=4" width="42;" alt="expoli"/></a>
 <a href="https://github.com/k23223" title="k23223"><img src="https://avatars.githubusercontent.com/u/57606136?v=4" width="42;" alt="k23223"/></a>
 <a href="https://github.com/eryajf" title="二丫讲梵"><img src="https://avatars.githubusercontent.com/u/33259379?v=4" width="42;" alt="二丫讲梵"/></a>
 <a href="https://github.com/ChuwuYo" title="ChuwuYo"><img src="https://avatars.githubusercontent.com/u/141227996?v=4" width="42;" alt="ChuwuYo"/></a>
@@ -461,7 +465,7 @@ Quick Reference
 <a href="https://github.com/kcmeven" title="Evan-k"><img src="https://avatars.githubusercontent.com/u/48147837?v=4" width="42;" alt="Evan-k"/></a>
 <a href="https://github.com/kdxcxs" title="kdxcxs"><img src="https://avatars.githubusercontent.com/u/18746192?v=4" width="42;" alt="kdxcxs"/></a>
 <a href="https://github.com/kubeme" title="kubernetes for me"><img src="https://avatars.githubusercontent.com/u/16346220?v=4" width="42;" alt="kubernetes for me"/></a>
-<a href="https://github.com/larry-xue" title="yujian(larry) xue"><img src="https://avatars.githubusercontent.com/u/48818060?v=4" width="42;" alt="yujian(larry) xue"/></a>
+<a href="https://github.com/larry-xue" title="yujian"><img src="https://avatars.githubusercontent.com/u/48818060?v=4" width="42;" alt="yujian"/></a>
 <a href="https://github.com/leauny" title="leauny"><img src="https://avatars.githubusercontent.com/u/42369176?v=4" width="42;" alt="leauny"/></a>
 <a href="https://github.com/liliangrong777" title="liliangrong777"><img src="https://avatars.githubusercontent.com/u/58727146?v=4" width="42;" alt="liliangrong777"/></a>
 <a href="https://github.com/lozhu20" title="lozhu"><img src="https://avatars.githubusercontent.com/u/44923922?v=4" width="42;" alt="lozhu"/></a>
@@ -470,7 +474,7 @@ Quick Reference
 <a href="https://github.com/sunny0826" title="Xudong Guo"><img src="https://avatars.githubusercontent.com/u/24563928?v=4" width="42;" alt="Xudong Guo"/></a>
 <a href="https://github.com/nodjoy" title="gowshwah"><img src="https://avatars.githubusercontent.com/u/145280043?v=4" width="42;" alt="gowshwah"/></a>
 <a href="https://github.com/godot42x" title="godot42x"><img src="https://avatars.githubusercontent.com/u/79260851?v=4" width="42;" alt="godot42x"/></a>
-<a href="https://github.com/gi-b716" title="Yunchi Gan"><img src="https://avatars.githubusercontent.com/u/78394473?v=4" width="42;" alt="Yunchi Gan"/></a>
+<a href="https://github.com/gi-b716" title="Gavin"><img src="https://avatars.githubusercontent.com/u/78394473?v=4" width="42;" alt="Gavin"/></a>
 <a href="https://github.com/fjqz177" title="fjqz177"><img src="https://avatars.githubusercontent.com/u/83070583?v=4" width="42;" alt="fjqz177"/></a>
 <a href="https://github.com/fenglielie" title="fenglielie"><img src="https://avatars.githubusercontent.com/u/51266402?v=4" width="42;" alt="fenglielie"/></a>
 <a href="https://github.com/fakevn" title="fakevn"><img src="https://avatars.githubusercontent.com/u/11464386?v=4" width="42;" alt="fakevn"/></a>
@@ -540,7 +544,7 @@ Quick Reference
 <a href="https://github.com/Brid9e" title="Joe"><img src="https://avatars.githubusercontent.com/u/85558909?v=4" width="42;" alt="Joe"/></a>
 <a href="https://github.com/ch3nnn" title="chentong"><img src="https://avatars.githubusercontent.com/u/40114564?v=4" width="42;" alt="chentong"/></a>
 <a href="https://github.com/CharlotteZeng" title="hanchZ"><img src="https://avatars.githubusercontent.com/u/19461184?v=4" width="42;" alt="hanchZ"/></a>
-<a href="https://github.com/ohto-ai" title="Choo"><img src="https://avatars.githubusercontent.com/u/46275725?v=4" width="42;" alt="Choo"/></a>
+<a href="https://github.com/ohto-ai" title="AI"><img src="https://avatars.githubusercontent.com/u/46275725?v=4" width="42;" alt="AI"/></a>
 <a href="https://github.com/chinaphp" title="Coffee"><img src="https://avatars.githubusercontent.com/u/520827?v=4" width="42;" alt="Coffee"/></a>
 <a href="https://github.com/DEEMO101" title="DEEMO101"><img src="https://avatars.githubusercontent.com/u/35123091?v=4" width="42;" alt="DEEMO101"/></a>
 <a href="https://github.com/EyeReflection" title="EyeReflection"><img src="https://avatars.githubusercontent.com/u/221274482?v=4" width="42;" alt="EyeReflection"/></a>
